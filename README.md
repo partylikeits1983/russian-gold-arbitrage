@@ -2,14 +2,15 @@
 
 This repo was created to show how the price of gold in Russia is significantly cheaper than the price of gold on the global spot market.
 
-The reason for this is that the Russian central bank uses gold as a means to prop up the value of the Russian Ruble. 
+The reason for this is that the Russian central bank uses gold as a means to prop up the value of the Russian Ruble.
 
-Since the price of gold is lower in Russia than on the global spot market, this creates an opportunity for arbitrage. 
+Since the price of gold is lower in Russia than on the global spot market, this creates an opportunity for arbitrage.
 
-However, to exectue this arbitrage, a trader must first buy Russian gold with Russian Rubles, thus creating demand for Russian Rubles.
+However, to execute this arbitrage, a trader must first buy Russian gold with Russian Rubles, thus creating demand for Russian Rubles.
 
-This purpose of this repository is not political, merely an educational jypter notebook showing one of the means a Central Bank can affect the exchange rate of it's country's currency. 
+The purpose of this repository is not political but merely an educational Jupyter notebook showing one of the means a central bank can affect the exchange rate of its country's currency.
 
+As of May 28, 2024, the price of gold sold by VTB bank is $5.18 less per gram than the buy price price on JM Bullion.
 
 # Dependencies:
 ```
