@@ -1,4 +1,4 @@
-Russian Gold Price vs Global Gold Spot Price
+# Russian Gold Price vs Global Gold Spot Price
 
 This repo was created to show how the price of gold in Russia is significantly cheaper than the price of gold on the global spot market.
 
